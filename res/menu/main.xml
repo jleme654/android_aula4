@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.wincomp.example.p2_2.MainActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never"/>
+    <item android:id="@+id/mTituloTextView"></item>
+    <item android:id="@+id/mEmailEditView"></item>
+    <item android:id="@+id/mVerificarButton"></item>
+    <item android:id="@+id/mStatusTextView"></item>
+    <item android:id="@+id/mNomeTextView"></item>
+    <item android:id="@+id/mDominioTextView"></item>
+
+</menu>
